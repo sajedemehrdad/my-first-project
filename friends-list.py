@@ -17,4 +17,4 @@ for index in range(0,len(friends)):
     Friend="+".join(friends)
 
 print(Friend)
-
+print('Greaaaaat')
