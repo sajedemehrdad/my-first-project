@@ -22,3 +22,6 @@ print("finished??")
 ww=200399483
 print(ww)
 print("by git now")
+clas_marks=[20,4,6,17]
+print(clas_marks)
+print('woeeee a conflict')
